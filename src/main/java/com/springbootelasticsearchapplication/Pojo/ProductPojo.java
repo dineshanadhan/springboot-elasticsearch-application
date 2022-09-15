@@ -49,4 +49,8 @@ public class ProductPojo {
         this.price = price;
     }
 
+    public ProductPojo() {
+
+    }
+
 }
